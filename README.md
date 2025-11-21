@@ -21,7 +21,7 @@ Built with a BookMyShow-inspired UI, FitHub lets you manage your film catalog ea
 | Layer | Technology |
 |-------|-------------|
 | **Backend** | Spring Boot 3.x |
-| **Frontend** | Thymeleaf + Bootstrap 5 |
+| **Frontend** | Thymeleaf + HTML,CSS,TAILWIND |
 | **Database** | MySQL / H2 (configurable) |
 | **ORM** | Spring Data JPA (Hibernate) |
 | **Language** | Java 17+ |
